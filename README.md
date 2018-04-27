@@ -1,4 +1,4 @@
-## Basic project on the github of scalatra framework for showing show "Hello Hamza!" ##
+## Basic project on the github of scalatra framework for showing "Hello Hamza!" ##
 
 
 # Scalatra Web App #
