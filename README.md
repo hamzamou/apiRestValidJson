@@ -27,3 +27,9 @@ run project :
 If `browse` doesn't launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.
 
 
+# Improvement #
+
+I will use json-schema-ref-parser for the validation of the schema json:
+https://github.com/BigstickCarpet/json-schema-ref-parser
+
+
